@@ -1,6 +1,9 @@
 # Azure Weather Dashboard 🌦️
 
 ## Overview
+This project is part of the **30 Days DevOps Challenge** `#DevOpsAllStarsChallenge`  
+**Day 1** focuses on integrating weather data from the OpenWeather API with Azure Blob Storage.
+
 The **Azure Weather Dashboard** is a Python-based project designed to fetch real-time weather data for specified cities using the OpenWeather API and store this data in Azure Blob Storage. This project demonstrates the integration of third-party APIs with Azure Storage and showcases scalable and automated data storage solutions.
 
 ---
